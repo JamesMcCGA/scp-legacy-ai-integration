@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "scp-legacy-ai-integration",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "SCP-legacy-ai-integration-db",
+			"database_id": "870d6d21-b2a1-4068-8c38-d3e0b101344a"
+		}
+	]
+}
